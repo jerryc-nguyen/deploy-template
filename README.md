@@ -11,4 +11,3 @@ git clone https://github.com/jerryc-nguyen/deploy-template.git deploy
 
 ### Latest nginx template:
 https://raw.githubusercontent.com/nginx-proxy/nginx-proxy/main/nginx.tmpl
-=======
